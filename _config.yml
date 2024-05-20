@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Aniket Sawant
-description: "Hi I'm Aniket, and I'm a Media Professional with over 6 years experience handling accounts like Meta, Sanofi & Castrol. I have recently gained interest and undertaken a course in Data Science as a solid layer over my existing skills. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Aniket, and I'm a Media Professional with over 8 years experience handling accounts like Meta, Sanofi & Castrol. I have recently gained interest and undertaken a course in Data Science as a solid layer over my existing skills. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Mumbai, India"
-resume_url: /docs/Aniket Arvind Sawant_Resume_2022.pdf
+resume_url: /docs/Aniket Arvind Sawant_CV 2024.pdf
 avatar_image: /img/AS.png
 
 #-------------------------------
